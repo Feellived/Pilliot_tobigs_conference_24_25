@@ -1,0 +1,18 @@
+# Raw data (large cache files)
+data/raw/
+
+# Processed (대용량 파일)
+data/processed/
+*.feather
+
+# API keys
+.env
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
