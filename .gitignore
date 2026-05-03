@@ -3,6 +3,7 @@ data/raw/
 
 # Processed (대용량 파일)
 data/processed/
+data/interim/
 *.feather
 
 # API keys
